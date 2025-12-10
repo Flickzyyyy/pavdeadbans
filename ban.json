@@ -2,5 +2,9 @@
     "wills lawyer": {
         "banneduntil": "2099/1/1",
         "BanReason": "Using Invisibility Glitch"
+    },
+    "wills lawyer1": {
+        "banneduntil": "2099/1/1",
+        "BanReason": "Using Invisibility Glitch Also"
     }
 }
